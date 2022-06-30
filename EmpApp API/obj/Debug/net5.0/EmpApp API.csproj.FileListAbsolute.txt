@@ -1,0 +1,61 @@
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\appsettings.Development.json
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\appsettings.json
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\EmpApp API.exe
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\EmpApp API.deps.json
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\EmpApp API.runtimeconfig.json
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\EmpApp API.runtimeconfig.dev.json
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\EmpApp API.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\EmpApp API.pdb
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.csproj.AssemblyReference.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.GeneratedMSBuildEditorConfig.editorconfig
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.AssemblyInfoInputs.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.AssemblyInfo.cs
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.csproj.CoreCompileInputs.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.MvcApplicationPartsAssemblyInfo.cs
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.MvcApplicationPartsAssemblyInfo.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\scopedcss\bundle\EmpApp API.styles.css
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\staticwebassets\EmpApp API.StaticWebAssets.Manifest.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.RazorTargetAssemblyInfo.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.csproj.CopyComplete
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\refint\EmpApp API.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.pdb
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\EmpApp API.genruntimeconfig.cache
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\obj\Debug\net5.0\ref\EmpApp API.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Azure.Core.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Azure.Identity.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\OTHERS\SITS\JKH Assignment\EmpApp API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
